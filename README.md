@@ -35,20 +35,97 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="90" height="90"/>&nbsp;
+  ### Programming Skills
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="140px" align="center">
+          <span>Javascript</span><br><br><br>
+          <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+        </td>
+         <td width="140px" align="center">
+          <span>Git</span><br><br><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+    ### Frontend Skills
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="140px" align="center">
+          <span>React</span><br><br><br>
+          <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+        </td>
+        <td width="140px" align="center">
+          <span>HTML5</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        </td>
+        <td width="140px" align="center">
+          <span><strong>CSS3</strong>
+          </span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+    ### Backend Skills
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="140px" align="center">
+          <span>Node js</span><br><br><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
+        </td>
+        <td width="140px" align="center">
+          <span>MySQL</span><br><br><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="90" height="90"/>
-</div>
+ <h1> :fire: :writing_hand: Currently learning : </h1>
+  <div align="left">
+    <table>
+      <tbody>
+        <tr valign="top">
+          <td width="140px" align="center">
+            <span>React Native</span><br><br><br>
+            <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+          </td>
+          <td width="140px" align="center">
+            <span><strong>Tailwind</strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+          </td>
+          <td width="140px" align="center">
+            <span>NextJS</span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <h1> :fire: :writing_hand: Will like to learn : </h1>
+  <div align="left">
+    <table>
+      <tbody>
+        <tr valign="top">
+          <td width="140px" align="center">
+            <span><strong>Electron</strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
+          </td>
+          <td width="140px" align="center">
+            <span>Markdown</span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
 
 - ## Here are my Stats :fire:
