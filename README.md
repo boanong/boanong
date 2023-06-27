@@ -4,8 +4,7 @@
 </div>
 
 ### Hi there 👋
-
-
+I'm Boanong Joshua, a UI/UX designer and front-end developer. I create beautiful and functional web applications.
 
 ### :hammer_and_wrench: Languages and Tools :
 
