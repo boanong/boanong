@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Hi 👋 there, I'm Boanong Joshua, 
-A UI/UX designer and front-end developer. I create beautiful and 
-functional web applications. 
+<div align="center"> ### Hi 👋 there, I'm Boanong Joshua, </div>
+<div align="center">A UI/UX designer and front-end developer. I create beautiful and 
+functional web applications. </div>
  
 ### :hammer_and_wrench: Languages and Tools :
 
