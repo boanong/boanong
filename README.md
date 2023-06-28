@@ -1,6 +1,6 @@
-### <div> ### Hi 👋 there, I'm Boanong Joshua</div>
-<div> A UI/UX designer and front-end developer. I create beautiful and 
-functional web applications. </div>
+# # Hi 👋 there, I'm Boanong Joshua</div>
+A UI/UX designer and front-end developer. I create beautiful and 
+functional web applications. 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
