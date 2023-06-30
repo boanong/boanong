@@ -1,4 +1,4 @@
-# # Hi there,👋 I'm Boanong Joshua</div> ##
+ # Hi there,👋 I'm Boanong Joshua</div> 
 A UI/UX designer and front-end developer. I create beautiful and 
 functional web applications. 
 
@@ -104,7 +104,6 @@ functional web applications.
 
 - ## Here are my Stats :fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boanong&theme=dark&background=000000)](https://git.io/streak-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boanong&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
 
 
 
