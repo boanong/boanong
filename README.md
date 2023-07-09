@@ -112,7 +112,7 @@ functional web applications.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[YOUR_LINKEDIN_PROFILE_URL_HERE](https://www.linkedin.com/in/boanong-joshua/)">
+  <a href="https://www.linkedin.com/in/boanong-joshua/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
