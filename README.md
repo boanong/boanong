@@ -1,5 +1,5 @@
  # Hi there,👋 I'm Boanong Joshua</div> 
-A UI/UX designer and front-end developer. I create beautiful and 
+UI/UX designer and front-end developer. I create beautiful and 
 functional web applications. 
 
 <div align="center">
